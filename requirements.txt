@@ -1,5 +1,5 @@
 streamlit
-altair<5
+altair
 langchain
 openai
 wikipedia
