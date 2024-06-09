@@ -5,4 +5,3 @@ openai
 wikipedia
 chromadb
 tiktoken
-langchain-community
